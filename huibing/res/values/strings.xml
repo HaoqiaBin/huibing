@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">跳动的心</string>
+    <string name="hello">阿冰，你是一个温柔可爱、善解人意的女孩子！能认识你是种缘分，大家同进编辑部，同报广科。我知道你刻苦努力，有上进心，懂得关心他人，我心里有不开心的事时你能听我倾诉，其实，我喜欢你也有一段时间了！喜欢你独特的性格！我知道高中是学习的阶段，不应该谈恋爱，但是我还是选择跟你说：我喜欢你！</string>
+	<string name="showlove">(●ε●) 我喜欢你，做我女朋友吧！</string>
+	<string name="dev">斌华为惠冰开发！</string>
+	<string name="heart">♥₪</string>
+	<string name="about">关于</string>
+	<string name="iou">我喜欢你！相信我！我一定会给你幸福！</string>
+	<string name="g">(●˙ω˙●)ノ♥</string>
+	<string name="f">(´๑•ω•๑`)</string>
+	<string name="sad">(๑ò﹏ó๑)</string>
+</resources>
